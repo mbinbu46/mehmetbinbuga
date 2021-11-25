@@ -2,12 +2,14 @@ body {
   background-image:url(govde.jpg.jpg);
   display:inline;
   grid-gap: 1em;
+  margin:0; padding:0; height:100%; width:100%;
   
   
 }
 #ben {
     background-image: url("ben.png.PNG");
     position: absolute;
+    top:10px;
     right: 1060px;
     height:330px;
     width:280px;
@@ -341,7 +343,7 @@ body {
 }
 #ba1 {
   position:absolute;
-  left:80px;
+  right:1170px;
   top:402px;
 }
 #ba2 {
@@ -362,7 +364,7 @@ body {
 }
 #ba2 {
   position:absolute;
-  left:80px;
+  right:1170px;
   top:422px;
 }
 
@@ -384,7 +386,7 @@ body {
 }
 #au {
   position:absolute;
-  left:10px;
+  right:1120px;
   top:1205px;
 }
 
@@ -406,7 +408,7 @@ body {
 }
 #ne {
   position:absolute;
-  left:10px;
+  right:1120px;
   top:1255px;
 }
 
@@ -428,7 +430,7 @@ body {
 }
 #ccc {
   position:absolute;
-  left:10px;
+  right:1120px;
   top:1310px;
 }
 
@@ -450,7 +452,7 @@ body {
 }
 #ra {
   position:absolute;
-  left:10px;
+  right:1120px;
   top:1360px;
 }
 
@@ -472,7 +474,7 @@ body {
 }
 #mi {
   position:absolute;
-  left:10px;
+  right:1120px;
   top:1410px;
 }
 
@@ -494,7 +496,7 @@ body {
 }
 #ar {
   position:absolute;
-  left:605px;
+  right:515px;
   top:1205px;
 }
 #ph {
@@ -515,7 +517,7 @@ body {
 }
 #ph {
   position:absolute;
-  left:605px;
+  right:515px;
   top:1260px;
 }
 #pm {
@@ -536,7 +538,7 @@ body {
 }
 #pm {
   position:absolute;
-  left:605px;
+  right:515px;
   top:1310px;
 }
 #er {
@@ -557,7 +559,7 @@ body {
 }
 #er {
   position:absolute;
-  left:605px;
+  right:515px;
   top:1360px;
 }
 #pr {
@@ -578,13 +580,13 @@ body {
 }
 #pr {
   position:absolute;
-  left:605px;
+  right:515px;
   top:1410px;
 }
 
 #buton {
     position: absolute;
-    left: 850px;
+    right: 80px;
     top: 37px;
     background-color: goldenrod;
     border-radius: 20px;
