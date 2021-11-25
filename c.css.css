@@ -1,0 +1,597 @@
+body {
+  background-image:url(govde.jpg.jpg);
+  display:inline;
+  grid-gap: 1em;
+  
+  
+}
+#ben {
+    background-image: url("ben.png.PNG");
+    position: absolute;
+    right: 1060px;
+    height:330px;
+    width:280px;
+   
+    
+}
+#baslık {
+               
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 300px;
+    right: 740px;
+    top: 10px;
+    
+}
+#i1 {
+     color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 95px;
+    right: 305px;
+    top: 15px; border-style: groove; border-color: goldenrod;
+}
+#iletişim {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 5px;
+    top: 44px;
+    
+}
+#h1 {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 110px;
+    right: 925px;
+    top: 100px; border-style: groove; border-color: goldenrod;
+    
+}
+#hakkımda {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 600px;
+    right: 440px;
+    top: 130px;
+}
+#d {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 95px;
+    right: 1240px;
+    top: 350px; border-style: groove; border-color: goldenrod;
+}
+#diller {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 600px;
+    right: 740px;
+    top: 380px;
+}
+#k {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 100px;
+    right: 935px;
+    top: 350px;  border-style: groove; border-color: goldenrod; 
+}
+#kurslar {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 600px;
+    right: 440px;
+    top: 380px; 
+}
+#e {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 100px;
+    right: 515px;
+    top: 350px;    border-style: groove; border-color: goldenrod;
+}
+#ehliyet {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 600px;
+    right: 20px;
+    top: 380px; 
+}
+#kb {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 190px;
+    right: 146px;
+    top: 350px; border-style: groove; border-color: goldenrod;
+}
+#kbilgi {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 195px;
+    right: 145px;
+    top: 380px;
+}
+#deneyim {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 200px;
+    right: 600px;
+    top: 495px; border-style: groove; border-color: goldenrod; padding-left: 50px; 
+}
+#kt1 {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 930px;
+    top: 530px; border-style: dashed; text-align: center;
+}
+#kt2 {
+   color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 500px;
+    top: 530px; border-style: dashed; text-align: center;
+}
+#asteg {
+   color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 70px;
+    top: 530px;  border-style: dashed; text-align: center;
+}
+#eüas {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 930px;
+    top: 735px;border-style: dashed; text-align: center;
+}
+#eğitim {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 100px;
+    right: 650px;
+    top: 900px; border-style: groove; border-color: goldenrod; padding-left: 28px; 
+}
+#lise {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 940px;
+    top: 930px; text-align: center;
+}
+#üni {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 540px;
+    top: 930px; text-align: center;
+}
+#yetenek {
+     color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 140px;
+    right: 650px;
+    top: 1125px; border-style: groove; border-color: goldenrod; padding-left: 8px;
+}   
+#auto {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 940px;
+    top: 1160px; 
+}
+#net {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 940px;
+    top: 1210px;
+}
+#c {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 940px;
+    top: 1260px;
+}
+#rapor {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 940px;
+    top: 1310px;
+}
+#mic {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 940px;
+    top: 1360px;
+}
+#arc {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 340px;
+    top: 1160px;
+}
+#photo {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 340px;
+    top: 1210px;
+}
+#pmod {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 340px;
+    top: 1260px;
+}
+#erdas {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 340px;
+    top: 1310px;
+}
+#proje {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 400px;
+    right: 340px;
+    top: 1360px;
+}
+#referans {
+     color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 150px;
+    right: 650px;
+    top: 1420px; border-style: groove; border-color: goldenrod; padding-left: 8px;
+}
+#r3 {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 200px;
+    right: 1040px;
+    top: 1455px;  text-align: center;
+}
+#r4 {
+   color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 200px;
+    right: 800px;
+    top: 1455px;  text-align: center;
+}
+#r1 {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 200px;
+    right: 500px;
+    top: 1455px;  text-align: center;
+}
+#r2 {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 200px;
+    right: 200px;
+    top: 1455px;   text-align: center;
+}
+#sayfa {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    position: absolute;
+    width: 200px;
+    right: 600px;
+    top: 1600px;  text-align: center;
+   
+}
+#ba1 {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 100px;
+    padding: 3px;
+}
+
+#ba1:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 100%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ba1 {
+  position:absolute;
+  left:80px;
+  top:402px;
+}
+#ba2 {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 100px;
+    padding: 3px;
+}
+
+#ba2:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 30%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ba2 {
+  position:absolute;
+  left:80px;
+  top:422px;
+}
+
+#au {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#au:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 70%;
+    height: 100%;
+    border-radius: 9px;
+}
+#au {
+  position:absolute;
+  left:10px;
+  top:1205px;
+}
+
+#ne {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#ne:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 90%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ne {
+  position:absolute;
+  left:10px;
+  top:1255px;
+}
+
+#ccc {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#ccc:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 55%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ccc {
+  position:absolute;
+  left:10px;
+  top:1310px;
+}
+
+#ra {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#ra:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 85%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ra {
+  position:absolute;
+  left:10px;
+  top:1360px;
+}
+
+#mi {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#mi:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 90%;
+    height: 100%;
+    border-radius: 9px;
+}
+#mi {
+  position:absolute;
+  left:10px;
+  top:1410px;
+}
+
+#ar {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#ar:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 60%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ar {
+  position:absolute;
+  left:605px;
+  top:1205px;
+}
+#ph {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#ph:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+#ph {
+  position:absolute;
+  left:605px;
+  top:1260px;
+}
+#pm {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#pm:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+#pm {
+  position:absolute;
+  left:605px;
+  top:1310px;
+}
+#er {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#er:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 40%;
+    height: 100%;
+    border-radius: 9px;
+}
+#er {
+  position:absolute;
+  left:605px;
+  top:1360px;
+}
+#pr {
+    background: #333;
+    border-radius: 13px;
+    height: 10px;
+    width: 200px;
+    padding: 3px;
+}
+
+#pr:after {
+    content: '';
+    display: block;
+    background: goldenrod;
+    width: 90%;
+    height: 100%;
+    border-radius: 9px;
+}
+#pr {
+  position:absolute;
+  left:605px;
+  top:1410px;
+}
+
+#buton {
+    position: absolute;
+    left: 850px;
+    top: 37px;
+    background-color: goldenrod;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor:alias;
+}
