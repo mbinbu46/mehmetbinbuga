@@ -10,7 +10,7 @@ body {
     background-image: url("ben.png.PNG");
     position: absolute;
     top:10px;
-    right: 1060px;
+    left: 10px;
     height:330px;
     width:280px;
    
@@ -22,7 +22,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 300px;
-    right: 740px;
+    left: 310px;
     top: 10px;
     
 }
@@ -31,7 +31,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 95px;
-    right: 305px;
+    left: 942px;
     top: 15px; border-style: groove; border-color: goldenrod;
 }
 #iletişim {
@@ -39,8 +39,8 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 5px;
-    top: 44px;
+    left: 942px;
+    top: 47px;
     
 }
 #h1 {
@@ -48,7 +48,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 110px;
-    right: 925px;
+    left: 310px;
     top: 100px; border-style: groove; border-color: goldenrod;
     
 }
@@ -57,7 +57,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 600px;
-    right: 440px;
+    left: 310px;
     top: 130px;
 }
 #d {
@@ -65,15 +65,15 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 95px;
-    right: 1240px;
+    left: 10px;
     top: 350px; border-style: groove; border-color: goldenrod;
 }
 #diller {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 600px;
-    right: 740px;
+    width: 50px;
+    left: 10px;
     top: 380px;
 }
 #k {
@@ -81,15 +81,15 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 100px;
-    right: 935px;
+    left:310px;
     top: 350px;  border-style: groove; border-color: goldenrod; 
 }
 #kurslar {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 600px;
-    right: 440px;
+    width: 400px;
+    left:310px;
     top: 380px; 
 }
 #e {
@@ -97,15 +97,15 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 100px;
-    right: 515px;
+    left: 725px;
     top: 350px;    border-style: groove; border-color: goldenrod;
 }
 #ehliyet {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 600px;
-    right: 20px;
+    width: 150px;
+    left: 725px;
     top: 380px; 
 }
 #kb {
@@ -113,7 +113,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 190px;
-    right: 146px;
+    left:1000px;
     top: 350px; border-style: groove; border-color: goldenrod;
 }
 #kbilgi {
@@ -121,7 +121,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 195px;
-    right: 145px;
+    left:1000px;
     top: 380px;
 }
 #deneyim {
@@ -129,7 +129,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 200px;
-    right: 600px;
+    left: 500px;
     top: 495px; border-style: groove; border-color: goldenrod; padding-left: 50px; 
 }
 #kt1 {
@@ -137,7 +137,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 930px;
+    left:10px;
     top: 530px; border-style: dashed; text-align: center;
 }
 #kt2 {
@@ -145,7 +145,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 500px;
+    left: 435px;
     top: 530px; border-style: dashed; text-align: center;
 }
 #asteg {
@@ -153,7 +153,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 70px;
+    left: 860px;
     top: 530px;  border-style: dashed; text-align: center;
 }
 #eüas {
@@ -161,7 +161,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 930px;
+    left:10px;
     top: 735px;border-style: dashed; text-align: center;
 }
 #eğitim {
@@ -169,7 +169,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 100px;
-    right: 650px;
+    left: 550px;
     top: 900px; border-style: groove; border-color: goldenrod; padding-left: 28px; 
 }
 #lise {
@@ -177,7 +177,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 940px;
+   left: 10px;
     top: 930px; text-align: center;
 }
 #üni {
@@ -185,7 +185,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 400px;
-    right: 540px;
+    left: 440px;
     top: 930px; text-align: center;
 }
 #yetenek {
@@ -193,87 +193,87 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 140px;
-    right: 650px;
+    left: 550px;
     top: 1125px; border-style: groove; border-color: goldenrod; padding-left: 8px;
 }   
 #auto {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 940px;
+    width: 250px;
+    left:10px;
     top: 1160px; 
 }
 #net {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 940px;
+    width: 250px;
+    left:10px;;
     top: 1210px;
 }
 #c {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 940px;
+    width: 250px;
+    left:10px;
     top: 1260px;
 }
 #rapor {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 940px;
+   width: 250px;
+    left:10px;
     top: 1310px;
 }
 #mic {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 940px;
+   width: 250px;
+    left:10px;
     top: 1360px;
 }
 #arc {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 340px;
+    width: 250px;
+    left: 610px;
     top: 1160px;
 }
 #photo {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 340px;
+    width: 250px;
+    left: 610px;
     top: 1210px;
 }
 #pmod {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 340px;
+    width: 250px;
+    left: 610px;
     top: 1260px;
 }
 #erdas {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 340px;
+    width: 250px;
+    left: 610px;
     top: 1310px;
 }
 #proje {
     color: goldenrod;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
-    width: 400px;
-    right: 340px;
+    width: 250px;
+    left: 610px;
     top: 1360px;
 }
 #referans {
@@ -281,7 +281,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 150px;
-    right: 650px;
+    left: 550px;
     top: 1420px; border-style: groove; border-color: goldenrod; padding-left: 8px;
 }
 #r3 {
@@ -289,7 +289,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 200px;
-    right: 1040px;
+    left=200px;
     top: 1455px;  text-align: center;
 }
 #r4 {
@@ -297,7 +297,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 200px;
-    right: 800px;
+    left: 300px;
     top: 1455px;  text-align: center;
 }
 #r1 {
@@ -305,7 +305,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 200px;
-    right: 500px;
+    left: 700px;
     top: 1455px;  text-align: center;
 }
 #r2 {
@@ -313,7 +313,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 200px;
-    right: 200px;
+    left:1000px;
     top: 1455px;   text-align: center;
 }
 #sayfa {
@@ -321,7 +321,7 @@ body {
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     position: absolute;
     width: 200px;
-    right: 600px;
+    left:520px;
     top: 1600px;  text-align: center;
    
 }
@@ -343,7 +343,7 @@ body {
 }
 #ba1 {
   position:absolute;
-  right:1170px;
+  left:70px;
   top:402px;
 }
 #ba2 {
@@ -364,7 +364,7 @@ body {
 }
 #ba2 {
   position:absolute;
-  right:1170px;
+  left:70px;
   top:422px;
 }
 
@@ -386,7 +386,7 @@ body {
 }
 #au {
   position:absolute;
-  right:1120px;
+  left: 25px;
   top:1205px;
 }
 
@@ -408,7 +408,7 @@ body {
 }
 #ne {
   position:absolute;
-  right:1120px;
+  left: 25px;
   top:1255px;
 }
 
@@ -430,7 +430,7 @@ body {
 }
 #ccc {
   position:absolute;
-  right:1120px;
+  left: 25px;
   top:1310px;
 }
 
@@ -452,7 +452,7 @@ body {
 }
 #ra {
   position:absolute;
-  right:1120px;
+  left: 25px;
   top:1360px;
 }
 
@@ -474,7 +474,7 @@ body {
 }
 #mi {
   position:absolute;
-  right:1120px;
+  left: 25px;
   top:1410px;
 }
 
@@ -496,7 +496,7 @@ body {
 }
 #ar {
   position:absolute;
-  right:515px;
+  left:630px;
   top:1205px;
 }
 #ph {
@@ -517,7 +517,7 @@ body {
 }
 #ph {
   position:absolute;
-  right:515px;
+ left:630px;
   top:1260px;
 }
 #pm {
@@ -538,7 +538,7 @@ body {
 }
 #pm {
   position:absolute;
-  right:515px;
+  left:630px;
   top:1310px;
 }
 #er {
@@ -559,7 +559,7 @@ body {
 }
 #er {
   position:absolute;
-  right:515px;
+  left:630px;
   top:1360px;
 }
 #pr {
@@ -580,13 +580,13 @@ body {
 }
 #pr {
   position:absolute;
-  right:515px;
+  left:630px;
   top:1410px;
 }
 
 #buton {
     position: absolute;
-    right: 80px;
+    left: 1150px;
     top: 37px;
     background-color: goldenrod;
     border-radius: 20px;
